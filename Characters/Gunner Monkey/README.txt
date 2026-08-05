@@ -1,0 +1,3 @@
+- Assets for peel eject are gonna be added later
+- spawn banana asset at left Hand socket for Duration of banana grab and putting it in (lol)
+- gun may have to be parented to right Hand socket (or not, idk, Maybe works without)
